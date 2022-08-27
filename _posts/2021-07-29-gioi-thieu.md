@@ -7,7 +7,7 @@ tags: [gioi thieu]
 pin: true
 ---
 
-Xin chào mọi người, mình tên là Lê Trung Phong, mình có hơn 3 năm kinh nghiệm trong lĩnh vực phát triển phần mềm về các ứng dụng AI/ Machine Learning/ Deep Learning và cả Backend Server.
+Xin chào mọi người, mình tên là Lê Trung Phong, mình có nhiều năm kinh nghiệm trong lĩnh vực phát triển phần mềm về các ứng dụng AI/ Machine Learning/ Deep Learning và cả Backend Server.
 
 Bên cạnh đó mình còn có kinh doanh Khách sạn và Căn hộ nho nhỏ, nhưng khá xinh đẹp ở thành phố biển Đà Nẵng, nếu có dịp mọi người đến Đà Nẵng thì nhớ ủng hộ mình nhé :)) 
 
